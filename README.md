@@ -21,3 +21,8 @@ qq的版本号可以从qq->关于里面查看
 
 q++的版本号和激活环境打开q++界面截图发给我
 错误日志可以打开qq->设置-Q++->兼容性截图给我
+
+# 参考文档
+
+[请查看wiki](https://github.com/qssq/feedback/wiki)
+[Please refer to the wiki](https://github.com/qssq/feedback/wiki)
