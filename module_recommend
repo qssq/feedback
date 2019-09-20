@@ -1,1 +1,13 @@
-[]
+[{"appName":"支付宝口令自动领取",
+"install_status":0,
+"packageName":"com.example.alipayentercode",
+"supportUrl":"",
+"downloadUrl":"",
+"icon":"",
+"description":"好东西",
+"versionCode":999,
+"versionName":"超级版"},
+{"appName":"因幸福","install_status":0,"packageName":"cn.test.payhelper","versionCode":0,"versionName":"超级版"},
+{"appName":"未安装的app","install_status":0,"packageName":"cn.test.payhelperxxx","versionCode":0,"versionName":"1111"},
+{"appName":"未安装的app2","install_status":0,"packageName":"cn.test.payhelperxxxxxx","versionCode":0,"versionName":"1111"},
+{"appName":"未安装的app2","icon":"http://ww3.sinaimg.cn/large/610dc034jw1fasakfvqe1j20u00mhgn2.jpg","install_status":0,"packageName":"cn.test.payhelffffperxxxxxx","versionCode":0,"versionName":"1111"}]
