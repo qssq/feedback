@@ -1,6 +1,10 @@
 {
-	"version_name": "1.0",
-	"version_code": 1,
-	"update_content": "必须更新，你没得选",
+	"version_name": "1.0.7",
+	"version_code": 11,
+	"update_content": "1.0.7 更新内容: \n修复使用动态加载无法正常加载引擎问题、修复插件开关经常失灵、乱勾选等问题、修复某个界面可能出现的崩溃问题、修复小米手机卸载后不自动弹窗安装菜单问题。	
+	\n 1.0.6更新内容:增加动态加载、修复已知bug.修复签名方式2bug、修复淘宝打不开问题、\n
+	\n 1.0.5更新内容 增加封包模式选项\n
+	
+	\n",
 	"update_url": "http://qssq666.cn/update"
 }
