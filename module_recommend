@@ -15,9 +15,9 @@
 "supportUrl":"https://repo.xposed.info/module/cn.qssq666.q.plus",
 "downloadUrl":"http://update.qssq666.cn",
 "icon":"",
-"description":"q++,一款可以防止禁言、撤回、点赞、踢人抢红包等功能的QQ插件，配合qq机器人软件使用则可以群管禁言踢人，是情迁红包的改进版。",
-"versionCode":666,
-"versionName":"1.3.5"},
+"description":"q++,一款可以防止禁言、撤回、点赞、踢人抢红包等功能的QQ插件，配合qq机器人软件使用则可以群管禁言踢人，是情迁红包的改进版。支持qq8.0.8以下以及8.15机器人支持撤回的版本为8.0.8以及以下。 ",
+"versionCode":52,
+"versionName":"1.3.7"},
 
 
 {"appName":"v++/微信抢红包软件",
